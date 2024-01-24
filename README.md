@@ -19,9 +19,6 @@ This is a simple voice assistant application created using Python. The applicati
 5. **Time Display:**
    - Tells the current time.
 
-6. **Code Editor:**
-   - Opens a code editor.
-
 ## Prerequisites
 
 - Python 3.x
@@ -31,21 +28,20 @@ This is a simple voice assistant application created using Python. The applicati
 Usage
 Run the voice_assistant.py script.
 The assistant will greet you, and you can give voice commands.
+
 Commands
+
 Wikipedia Search:
-
 Mention "Wikipedia" followed by the topic of interest.
+
 Web Browsing:
-
 Say "Open YouTube" or "Open Google" to open the respective websites.
+
 Music Player:
-
 Say "Play music" to play music from a predefined directory.
+
 Time Display:
-
 Ask "What's the time?" to get the current time.
-Code Editor:
 
-Say "Open code" to open a code editor.
 Author
 Vara Prasad
